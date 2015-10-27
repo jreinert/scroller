@@ -72,4 +72,7 @@ module Scroller
 
     extend self
   end
+
+  Cli.run
 end
+
